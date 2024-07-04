@@ -1,0 +1,15 @@
+D:\C++\电离层改正2\电离层改正2\obj\Debug\电离层改正2.csprojAssemblyReference.cache
+D:\C++\电离层改正2\电离层改正2\obj\Debug\电离层改正2.Form1.resources
+D:\C++\电离层改正2\电离层改正2\obj\Debug\电离层改正2.Properties.Resources.resources
+D:\C++\电离层改正2\电离层改正2\obj\Debug\电离层改正2.csproj.GenerateResource.cache
+D:\C++\电离层改正2\电离层改正2\obj\Debug\电离层改正2.csproj.CoreCompileInputs.cache
+D:\C++\电离层改正2\电离层改正2\bin\Debug\电离层改正2.exe.config
+D:\C++\电离层改正2\电离层改正2\bin\Debug\电离层改正2.exe
+D:\C++\电离层改正2\电离层改正2\bin\Debug\电离层改正2.pdb
+D:\C++\电离层改正2\电离层改正2\obj\Debug\电离层改正2.exe
+D:\C++\电离层改正2\电离层改正2\obj\Debug\电离层改正2.pdb
+D:\C++\电离层改正2\电离层改正2\bin\Debug\MathNet.Numerics.dll
+D:\C++\电离层改正2\电离层改正2\bin\Debug\System.ValueTuple.dll
+D:\C++\电离层改正2\电离层改正2\bin\Debug\MathNet.Numerics.xml
+D:\C++\电离层改正2\电离层改正2\bin\Debug\System.ValueTuple.xml
+D:\C++\电离层改正2\电离层改正2\obj\Debug\电离层改正2.csproj.CopyComplete

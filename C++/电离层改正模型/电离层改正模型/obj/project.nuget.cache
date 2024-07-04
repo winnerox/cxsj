@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t7mmPy5VmOunDNAQ+//HfKrxHTZiQAARGq+PD154aHsOOvYCiAqzy0tWZpsoBL71BYy+WkGLuEV6K32F4fh1xA==",
+  "success": true,
+  "projectFilePath": "D:\\C++\\电离层改正模型\\电离层改正模型\\电离层改正模型.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\史中亚\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

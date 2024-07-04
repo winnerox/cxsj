@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "大地线长度计算/1.0.0": {
+        "runtime": {
+          "大地线长度计算.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "大地线长度计算/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
