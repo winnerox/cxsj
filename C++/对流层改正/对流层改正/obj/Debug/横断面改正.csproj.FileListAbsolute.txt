@@ -1,0 +1,10 @@
+C:\Users\28723\Desktop\比赛\横断面改正\横断面改正\bin\Debug\横断面改正.exe.config
+C:\Users\28723\Desktop\比赛\横断面改正\横断面改正\bin\Debug\横断面改正.exe
+C:\Users\28723\Desktop\比赛\横断面改正\横断面改正\bin\Debug\横断面改正.pdb
+C:\Users\28723\Desktop\比赛\横断面改正\横断面改正\obj\Debug\横断面改正.csprojAssemblyReference.cache
+C:\Users\28723\Desktop\比赛\横断面改正\横断面改正\obj\Debug\横断面改正.Form1.resources
+C:\Users\28723\Desktop\比赛\横断面改正\横断面改正\obj\Debug\横断面改正.Properties.Resources.resources
+C:\Users\28723\Desktop\比赛\横断面改正\横断面改正\obj\Debug\横断面改正.csproj.GenerateResource.cache
+C:\Users\28723\Desktop\比赛\横断面改正\横断面改正\obj\Debug\横断面改正.csproj.CoreCompileInputs.cache
+C:\Users\28723\Desktop\比赛\横断面改正\横断面改正\obj\Debug\横断面改正.exe
+C:\Users\28723\Desktop\比赛\横断面改正\横断面改正\obj\Debug\横断面改正.pdb

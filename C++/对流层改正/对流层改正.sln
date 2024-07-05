@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34930.48
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "对流层改正计算", "横断面改正\对流层改正计算.csproj", "{FBF3A732-041A-4CB2-B754-8ED3C53C3C3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBF3A732-041A-4CB2-B754-8ED3C53C3C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF3A732-041A-4CB2-B754-8ED3C53C3C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF3A732-041A-4CB2-B754-8ED3C53C3C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF3A732-041A-4CB2-B754-8ED3C53C3C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66FDD1BE-C3BA-437E-804D-0AB7D84E9D97}
+	EndGlobalSection
+EndGlobal
